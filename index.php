@@ -30,7 +30,7 @@ unset($_SESSION['form_errors'], $_SESSION['old_input'], $_SESSION['flash_message
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link href="assets/css/style.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
 </head>
 <body>
 
@@ -54,7 +54,7 @@ unset($_SESSION['form_errors'], $_SESSION['old_input'], $_SESSION['flash_message
         <div class="container">
             <a class="navbar-brand d-flex align-items-center gap-3" href="#home">
                 <div class="logo-wrapper">
-                    <img src="assets/images/college-logo.png"
+                    <img src="college-logo.png"
                          alt="RIT Hassan Logo"
                          class="college-logo"
                          onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
