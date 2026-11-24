@@ -100,7 +100,7 @@ $formattedDob  = date('d M Y', strtotime($application['dob']));
                     <div class="receipt-header text-white p-4">
                         <div class="d-flex flex-column flex-sm-row align-items-center gap-3 text-center text-sm-start">
                             <div class="logo-wrapper bg-white">
-                                <img src="assets/images/college-logo.png"
+                                <img src="college-logo.png"
                                      alt="RIT Hassan Logo"
                                      class="college-logo"
                                      onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
